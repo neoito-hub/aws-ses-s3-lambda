@@ -1,0 +1,10 @@
+{
+  "name": "aws-test-task",
+  "description": "Receive an email using ses and store data S3 bucket - trigger a lambda function.",
+  "version": "1.0.0",
+  "author": "that-coder",
+  "license": "ISC",
+  "dependencies": {
+    "mailparser": "^2.3.4"
+  }
+}
