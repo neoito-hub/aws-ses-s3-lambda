@@ -1,3 +1,5 @@
+We used serverless framework for creating the template. Serverless framework basically creates a cloudformation template and deploying the corresponding resources inside AWS. 
+
 # Install serverless
 
 ```
