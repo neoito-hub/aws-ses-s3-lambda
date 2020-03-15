@@ -33,4 +33,4 @@ serverless deploy
 ```
 
 # To test
-serverless logs --function postprocess
+check cloudwatch logs to see the execution of the lambda function
